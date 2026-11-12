@@ -7,6 +7,7 @@
 * **Data Source:** [BigQuery Public Dataset](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=thelook_ecommerce&page=dataset&project=%3F&ws=!1m5!1m4!3m2!1sbigquery-public-data!2sthelook_ecommerce!23sWS_URL_PARAM)
 
 ---
+## Download date: 11.11.2026
 
 ## Tables Summary
 
